@@ -1,6 +1,5 @@
 
-![aasd](https://github.com/Saitamah07/Simple-Piano/assets/111819955/42018272-9127-4463-9ded-5acea6181925)
-
+![aasd](https://github.com/Saitamah07/Simple-Piano/assets/111819955/50c37b37-acd4-4477-9b5a-a6776e4247ee)
 
   <h1>for play the piano pres the keyboards:</h1>
   <ul>
